@@ -1,6 +1,6 @@
 # Goal
 
-The goal of this level is for you to log into the game using SSH.  
+SSH 사용해서 서버로 접근하기
 https://overthewire.org/wargames/bandit/bandit0.html
 
 ## Answer
