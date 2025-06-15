@@ -1,4 +1,4 @@
-# Goal
+## Goal
 
 SSH 사용해서 서버로 접근하기
 https://overthewire.org/wargames/bandit/bandit0.html

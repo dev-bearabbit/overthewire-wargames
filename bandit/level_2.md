@@ -1,4 +1,4 @@
-# Goal
+## Goal
 
 '-' 이름의 파일에 있는 비밀번호 찾아서 bandit2 서버로 접근
 https://overthewire.org/wargames/bandit/bandit2.html

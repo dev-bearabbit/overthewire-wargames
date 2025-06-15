@@ -1,4 +1,4 @@
-# Goal
+## Goal
 
 bandit0 서버의 readme 파일에서 비밀번호 획득한 뒤  bandit1 서버로 접근
 https://overthewire.org/wargames/bandit/bandit1.html
